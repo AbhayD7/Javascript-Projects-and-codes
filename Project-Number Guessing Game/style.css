@@ -1,0 +1,64 @@
+*{margin: 0;
+padding: 0;}
+
+.header{
+  text-align: center;
+  font-size: 30px;
+}
+form{
+  text-align: center;
+}
+.container{
+  background-color: rgb(70, 68, 68);
+  height: 100vh;
+  color: aliceblue;
+  padding: 5px;
+}
+.pstyle{
+    margin-top: 10px;
+    font-size: 20px;
+  text-align: center;
+  
+}
+#guess{
+  font-size: 40px;
+  }
+
+input{
+  margin: 10px;
+  font-size: 20px;
+  /* height: 15px; */
+  border: 2px solid grey;
+}
+p{
+  font-size: 12px;
+  padding: 0;
+  margin: 0;
+}
+#newGame{
+    background-color: rgb(41, 25, 25);
+    text-align: center;
+    font-size: 30px;
+    /* align-content: center; */
+}
+#newGame:hover{
+    cursor: pointer;
+    background-color: rgb(105, 102, 102);
+    color: aquamarine;
+}
+
+span{
+    background-color: rgb(58, 57, 57);
+}
+button{
+    
+  margin-top: 15px;
+  font-size: 20px;
+  padding: 10px;
+  background-color: rgb(32, 30, 30);
+  color: aliceblue;
+  border-radius: 10px;
+}
+#preGuess{
+  padding: 5px;
+}

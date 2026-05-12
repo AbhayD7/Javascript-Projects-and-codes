@@ -1,0 +1,42 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  text-align: center;
+  background-color: rgb(67, 7, 53);
+}
+h1{
+  font-family: fantasy;
+}
+.container{
+  color: rgb(192, 29, 11);
+  height:300px;
+  width: 60%;
+  border: 5px solid rgb(137, 59, 115);
+  margin: auto;
+  background-color: pink;
+  border-radius: 1rem;
+  padding-top: 8px;
+}
+.name{
+  margin: 10px;
+  font-size: 20px;
+}
+
+#result{
+  font-size: 20px;
+  color: rgb(252, 252, 251);
+  padding: 4px;
+  border: 2px solid rgb(168, 107, 117);
+  border-radius: 5px;
+  margin-top: 10px;
+  background-color:rgba(210, 53, 53, 0.596);
+}
+#result:hover{
+  color:rgb(13, 2, 2);
+  background-color: rgb(123, 13, 59);
+}
+h2{
+  margin: 20px;
+}

@@ -1,0 +1,22 @@
+body{
+  background-color:black; 
+  color:white; 
+
+}
+h1{
+  text-align: center;
+  text-decoration: underline;
+}
+.qContainer{
+  text-align: left;
+  font-size: 20px;
+ margin:20px;
+}
+label:hover,#q1:hover{
+  cursor:pointer
+}
+#submit,button{
+  text-align: center;
+font-size: 20px;
+border-radius: 5px;
+}

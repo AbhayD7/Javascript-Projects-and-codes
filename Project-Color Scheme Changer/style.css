@@ -1,0 +1,60 @@
+*{
+  margin:0;
+  padding:0;
+}
+.canvas{
+    /* align-content: center; */
+    width: 100%;
+    text-align: center;
+    height: 600px;
+/* background-color: aquamarine;   */
+}
+.nav{
+    font-size: 0px;
+    color: black;
+  height: 40px;
+  width: 100%;
+  background-color: rgb(219, 213, 213);
+
+}
+a{
+    width: 140px;
+    margin: 4px;
+    font-size: 25px;
+    text-align: center;
+    color: black;
+    text-decoration: none;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+a:hover{
+    color: blue;
+    background-color: grey;
+    opacity: 0.5;
+}
+.appname{
+ padding: 50px;
+}
+.navBar{
+  display: flex;
+  justify-content: center;
+}
+.button{
+  padding: 10px 30px;
+  font-size: 2rem;
+  margin: 10px;
+  border: 2px solid black;
+  
+}
+#grey{
+  background-color: grey;
+}
+#blue{
+  background-color: blue;
+}
+#yellow{
+  background-color: yellow;
+}
+#green{
+  background-color: green;
+}
